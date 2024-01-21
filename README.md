@@ -6,6 +6,7 @@ TODO:
 - Front-end
 - Better error handling/logging
 - Tighten up the passed along messages so LLM access isn't abused
+- Make LLM prompts a bit better so they don't add in surprise ingredients
 
 Environment variables:
 - `OPENAI_API_KEY`: API key for OpenAI
