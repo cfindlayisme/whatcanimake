@@ -1,0 +1,86 @@
+{
+  "recipes": [
+    {
+      "name": "Homemade Pasta with Tomato Sauce and Ground Chicken",
+      "ingredients": [
+        {"ingredient": "eggs", "quantity": "2"},
+        {"ingredient": "flour", "quantity": "2 cups"},
+        {"ingredient": "water", "quantity": "1/4 cup"},
+        {"ingredient": "ground chicken", "quantity": "1 lb"},
+        {"ingredient": "pasta", "quantity": "8 oz"},
+        {"ingredient": "pasta sauce", "quantity": "2 cups"},
+        {"ingredient": "diced carrots", "quantity": "1 cup"},
+        {"ingredient": "potatoes", "quantity": "1 cup"}
+      ],
+      "instructions": [
+        "Make fresh pasta using 2 eggs and 2 cups of flour.",
+        "Cook the pasta and set it aside.",
+        "Sauté 1 lb of ground chicken until cooked.",
+        "Add 1 cup each of diced carrots and potatoes, cook until vegetables are tender.",
+        "Pour in 2 cups of pasta sauce and let it simmer.",
+        "Serve the sauce over the cooked pasta."
+      ]
+    },
+    {
+      "name": "Creamy Chicken Alfredo Pasta",
+      "ingredients": [
+        {"ingredient": "eggs", "quantity": "2"},
+        {"ingredient": "flour", "quantity": "2 cups"},
+        {"ingredient": "water", "quantity": "1/4 cup"},
+        {"ingredient": "ground chicken", "quantity": "1 lb"},
+        {"ingredient": "35% cream", "quantity": "1 cup"},
+        {"ingredient": "pasta", "quantity": "8 oz"}
+      ],
+      "instructions": [
+        "Cook 8 oz of pasta according to package instructions.",
+        "In a pan, cook 1 lb of ground chicken until browned.",
+        "Add 1 cup of 35% cream and simmer until it thickens.",
+        "Season with salt and pepper.",
+        "Toss the cooked pasta in the creamy chicken sauce."
+      ]
+    },
+    {
+      "name": "Sweet Pancakes",
+      "ingredients": [
+        {"ingredient": "eggs", "quantity": "2"},
+        {"ingredient": "flour", "quantity": "2 cups"},
+        {"ingredient": "water", "quantity": "1/2 cup"},
+        {"ingredient": "sugar", "quantity": "2 tbsp"},
+        {"ingredient": "ketchup", "quantity": "optional"}
+      ],
+      "instructions": [
+        "Make a simple pancake batter using 2 eggs, 2 cups of flour, 1/2 cup of water, and 2 tbsp of sugar.",
+        "Cook pancakes on a griddle or pan.",
+        "Top with ketchup for a savory twist or make a sweet sauce using sugar and water."
+      ]
+    },
+    {
+      "name": "Vegetable Omelette",
+      "ingredients": [
+        {"ingredient": "eggs", "quantity": "3"},
+        {"ingredient": "diced carrots", "quantity": "1/2 cup"},
+        {"ingredient": "potatoes", "quantity": "1/2 cup"},
+        {"ingredient": "other veggies", "quantity": "as desired"}
+      ],
+      "instructions": [
+        "Beat 3 eggs and season with salt and pepper.",
+        "Sauté 1/2 cup each of diced carrots and potatoes, along with any other preferred veggies.",
+        "Pour beaten eggs over the veggies and cook until the omelette sets."
+      ]
+    },
+    {
+      "name": "Homemade Bread",
+      "ingredients": [
+        {"ingredient": "flour", "quantity": "4 cups"},
+        {"ingredient": "water", "quantity": "1 1/2 cups"},
+        {"ingredient": "yeast", "quantity": "2 tsp"},
+        {"ingredient": "sugar", "quantity": "1 tbsp"}
+      ],
+      "instructions": [
+        "Make a basic bread dough using 4 cups of flour, 1 1/2 cups of water, 2 tsp of yeast, and 1 tbsp of sugar.",
+        "Let the dough rise, shape it into a loaf, and bake until golden brown.",
+        "Serve slices with butter or use it for sandwiches."
+      ]
+    }
+  ]
+}
