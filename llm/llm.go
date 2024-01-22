@@ -8,6 +8,7 @@ import (
 	"strconv"
 
 	"github.com/cfindlayisme/whatcanimake/model"
+	"github.com/tmc/langchaingo/llms"
 	"github.com/tmc/langchaingo/llms/openai"
 	"github.com/tmc/langchaingo/schema"
 )
@@ -31,7 +32,7 @@ func GetRecipes(ingrediants string, count int) (model.Recipes, error) {
 		schema.SystemChatMessage{Content: systemPrompt},
 		schema.SystemChatMessage{Content: mockData},
 		schema.HumanChatMessage{Content: ingrediants},
-	})
+	}, llms.WithTemperature(0))
 	if err != nil {
 		log.Fatal(err)
 	}
