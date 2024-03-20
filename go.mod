@@ -4,7 +4,7 @@ go 1.22.1
 
 require (
 	github.com/gin-gonic/gin v1.9.1
-	github.com/tmc/langchaingo v0.1.6
+	github.com/tmc/langchaingo v0.1.7
 )
 
 require (
